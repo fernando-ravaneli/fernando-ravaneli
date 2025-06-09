@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fernandoravaneli/fernando-ravaneli/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/fernando-ravaneli/fernando-ravaneli/output/snake.svg" alt="Snake animation" />
 
 ###
